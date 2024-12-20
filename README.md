@@ -1,1 +1,1 @@
-# Artifical-Intelligence-SnakeGame
+# Deep-Q-Learning_SnakeGame
