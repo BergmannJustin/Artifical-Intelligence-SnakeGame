@@ -32,9 +32,9 @@ Jupyter Notebook Zelle nach Zelle ausführen
 
 ## Anwendungsbeispiele
 
-Einführung in Reinforcement Learning
-Lernziel: Vermittlung grundlegender RL-Konzepte wie Zustandsräume, Aktionen, Belohnungen und Q-Werte.
-Beispiel: Ein einfacher Agent wird darauf trainiert, durch Exploration (z. B. Epsilon-Greedy-Strategie) und Exploitation Punkte im Snake Game zu maximieren.
+Einführung in Reinforcement Learning:
+- Lernziel: Vermittlung grundlegender RL-Konzepte wie Zustandsräume, Aktionen, Belohnungen und Q-Werte.
+- Beispiel: Ein einfacher Agent wird darauf trainiert, durch Exploration (z. B. Epsilon-Greedy-Strategie) und Exploitation Punkte im Snake Game zu maximieren.
 
 Optimierung der Belohnungsfunktion
 Lernziel: Untersuchung, wie verschiedene Belohnungsfunktionen das Verhalten des Agenten beeinflussen.
@@ -43,9 +43,9 @@ Beispiel:
 - Negative Belohnung für das Kollidieren mit Wänden oder dem eigenen Körper.
 - Zusätzliche Belohnung für das Überleben über einen längeren Zeitraum.
 
-Echtzeit-Steuerung und Regelung
-Lernziel: Training eines RL-Agents für Echtzeitentscheidungen mit zeitlichen Beschränkungen.
-Beispiel: Entwicklung eines Snake-Agenten, der auf Echtzeit-Spielumgebungen optimiert ist, einschließlich schnellerer Reaktionszeiten und geringer Verzögerung.
+Echtzeit-Steuerung und Regelung:
+- Lernziel: Training eines RL-Agents für Echtzeitentscheidungen mit zeitlichen Beschränkungen.
+- Beispiel: Entwicklung eines Snake-Agenten, der auf Echtzeit-Spielumgebungen optimiert ist, einschließlich schnellerer Reaktionszeiten und geringer Verzögerung.
 
 
 
