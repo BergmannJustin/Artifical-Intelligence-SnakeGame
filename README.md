@@ -56,11 +56,6 @@ Echtzeit-Steuerung und Regelung:
 
 ## Metadaten
 
-
 - Justin Bergmann - Github: @BergmannJustin
-- Julian Mäder - Github: @Julimaeder
-- Fatma Cetinkaya - Github: @ftmct
-- Ersan Kahraman - Github: @ErsanK61
-
 
 [zurück an den Anfang](#Write-o-mat)
