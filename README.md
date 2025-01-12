@@ -36,7 +36,7 @@ Einführung in Reinforcement Learning:
 - Lernziel: Vermittlung grundlegender RL-Konzepte wie Zustandsräume, Aktionen, Belohnungen und Q-Werte.
 - Beispiel: Ein einfacher Agent wird darauf trainiert, durch Exploration (z. B. Epsilon-Greedy-Strategie) und Exploitation Punkte im Snake Game zu maximieren.
 
-Optimierung der Belohnungsfunktion
+Optimierung der Belohnungsfunktion:
 Lernziel: Untersuchung, wie verschiedene Belohnungsfunktionen das Verhalten des Agenten beeinflussen.
 Beispiel:
 - Positive Belohnung für das Essen eines Apfels.
