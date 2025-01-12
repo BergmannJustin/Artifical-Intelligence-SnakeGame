@@ -1,8 +1,6 @@
-![GitHub](https://img.shields.io/github/license/Julimaeder/Write-o-mat)
-![GitHub](https://img.shields.io/github/directory-file-count/Julimaeder/Write-o-mat)
+
 # Deep-Q-Learning_SnakeGame
-Write-o-mat ist ein Programm zum Schreiben von Geschichten, indem Sie einfach zwischen verschiedenen Möglichkeiten wählen.
-Jenachdem wie Sie sich entscheiden nimmt die Geschichte verschiedene Wendungen und es kommt zu unterschiedlichen Enden.
+In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning-Ansatzes trainiert wird, um ein Snake Spiel effizient zu spielen und langfristig hohe Punktzahlen zu erzielen.
 
 
 ## Inhaltsverzeichnis
@@ -14,61 +12,44 @@ Jenachdem wie Sie sich entscheiden nimmt die Geschichte verschiedene Wendungen u
 
 
 ## Vorraussetzungen
-- Deutsch Kenntnisse, da das gesamte System auf Deutsch läuft
+- Deutsch-/ Englisch Kentnisse 
 - Ein internetfähiger Linux/Mac/Windows basierter Computer
-- Python & GitHub Kenntnisse (optional)
+- Python & GitHub Kenntnisse 
 - Kenntnisse im Umgang mit der Shell Konsole
 
 
-[zurück an den Anfang](#Write-o-mat)
+[zurück an den Anfang](#Deep-Q-Learning_SnakeGame)
 
 
 ## Installation und Anwendung
 
-Windows:
-```shell
-git clone https://github.com/Julimaeder/Write-o-mat.git
-cd Write-o-mat
-pip install -r libraries.txt
-cd Writeomat
-python Writeomat_open.py
-```
-
-Mac:
-```Shell
-git clone https://github.com/Julimaeder/Write-o-mat.git
-cd Write-o-mat
-pip install -r libraries.txt
-cd Writeomat
-python Writeomat.py
-```
-
-Linux:
-```Shell
-git clone https://github.com/Julimaeder/Write-o-mat.git
-cd Write-o-mat
-pip install -r libraries.txt
-cd Writeomat
-python Writeomat.py
-```
+Jupyter Notebook Zelle nach Zelle ausführen
 
 
-[zurück an den Anfang](#Write-o-mat)
+[zurück an den Anfang](#Deep-Q-Learning_SnakeGame)
 
   
 
 ## Anwendungsbeispiele
 
-Unser Projekt Write-o-mat kann als
-- Inspiration
-- Zeitvertreib
-- Schreiben von Kurzgeschichten
-- Schreiben von Professionellen Kurzgeschichten
+Einführung in Reinforcement Learning
+Lernziel: Vermittlung grundlegender RL-Konzepte wie Zustandsräume, Aktionen, Belohnungen und Q-Werte.
+Beispiel: Ein einfacher Agent wird darauf trainiert, durch Exploration (z. B. Epsilon-Greedy-Strategie) und Exploitation Punkte im Snake Game zu maximieren.
 
-genutzt werden.
+Optimierung der Belohnungsfunktion
+Lernziel: Untersuchung, wie verschiedene Belohnungsfunktionen das Verhalten des Agenten beeinflussen.
+Beispiel:
+- Positive Belohnung für das Essen eines Apfels.
+- Negative Belohnung für das Kollidieren mit Wänden oder dem eigenen Körper.
+- Zusätzliche Belohnung für das Überleben über einen längeren Zeitraum.
+
+Echtzeit-Steuerung und Regelung
+Lernziel: Training eines RL-Agents für Echtzeitentscheidungen mit zeitlichen Beschränkungen.
+Beispiel: Entwicklung eines Snake-Agenten, der auf Echtzeit-Spielumgebungen optimiert ist, einschließlich schnellerer Reaktionszeiten und geringer Verzögerung.
 
 
-[zurück an den Anfang](#Write-o-mat)
+
+[zurück an den Anfang](#Deep-Q-Learning_SnakeGame)
 
 
 
