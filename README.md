@@ -38,6 +38,7 @@ Einführung in Reinforcement Learning:
 
 Optimierung der Belohnungsfunktion:
 - Lernziel: Untersuchung, wie verschiedene Belohnungsfunktionen das Verhalten des Agenten beeinflussen.
+
 Beispiel:
 - Positive Belohnung für das Essen eines Apfels.
 - Negative Belohnung für das Kollidieren mit Wänden oder dem eigenen Körper.
