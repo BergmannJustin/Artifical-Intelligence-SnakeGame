@@ -16,6 +16,8 @@ In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning
 - Python & GitHub Kenntnisse 
 - Kenntnisse im Umgang mit der Shell Konsole
 
+- Juypter Notebook ist einfach anwendbar. ( Zelle für Zelle ausführen ) 
+
 
 [zurück an den Anfang](#Deep-Q-Learning_SnakeGame)
 
