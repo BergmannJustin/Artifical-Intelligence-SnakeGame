@@ -6,7 +6,6 @@ In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning
 ## Inhaltsverzeichnis
 
 - [Vorraussetzungen](#Vorraussetzungen)
-- [Installation/Anwendung](#Installation/Anwendung)
 - [Anwendungsbeispiele](#Anwendungsbeispiele)
 - [Metadaten](#Metadaten)
 
@@ -20,13 +19,6 @@ In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning
 
 [zurück an den Anfang](#Deep-Q-Learning_SnakeGame)
 
-
-## Installation und Anwendung
-
-Jupyter Notebook Zelle nach Zelle ausführen
-
-
-[zurück an den Anfang](#Deep-Q-Learning_SnakeGame)
 
   
 
