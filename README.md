@@ -6,6 +6,7 @@ In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning
 ## Inhaltsverzeichnis
 
 - [Vorraussetzungen](#Vorraussetzungen)
+- [Ausführung](#Ausführung)
 - [Anwendungsbeispiele](#Anwendungsbeispiele)
 - [Metadaten](#Metadaten)
 
@@ -16,13 +17,15 @@ In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning
 - Python & GitHub Kenntnisse 
 - Kenntnisse im Umgang mit der Shell Konsole
 
-- Juypter Notebook ist einfach anwendbar. ( Zelle für Zelle ausführen ) 
-
 
 [zurück an den Anfang](#Deep-Q-Learning_SnakeGame)
 
 
-  
+## Ausführung
+
+```shell
+git clone https://github.com/BergmannJustin/Deep-Q-Learning_SnakeGame.git
+```
 
 ## Anwendungsbeispiele
 
