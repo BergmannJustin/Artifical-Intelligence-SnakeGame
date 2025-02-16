@@ -27,6 +27,12 @@ In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning
 git clone https://github.com/BergmannJustin/Deep-Q-Learning_SnakeGame.git
 ```
 
+Mittels Jupyter Notebook Zelle nach Zelle ausführbar. 
+Jupyter ist auch der aktuelle Stand.
+
+[zurück an den Anfang](#Deep-Q-Learning_SnakeGame)
+
+
 ## Anwendungsbeispiele
 
 Einführung in Reinforcement Learning:
