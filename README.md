@@ -1,6 +1,6 @@
 
 # Deep-Q-Learning_SnakeGame
-In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning-Ansatzes trainiert wird, um ein Snake Spiel effizient zu spielen und langfristig hohe Punktzahlen zu erzielen. ( In der Dokumentations PDF ist der Code das Vorgehen usw... alles erklärt ) 
+In diesem Projekt wurde ein Agent entwickelt, der mithilfe eines Deep Q-Learning-Ansatzes trainiert wird, um ein Snake Spiel effizient zu spielen und langfristig hohe Punktzahlen zu erzielen. ( In der Dokumentations PDF ist der Code das Vorgehen usw... alles erklärt sowie, dass ich  viel getestet habe  und am Ende dann  bemerkt hab, dass man garnicht so ein komplexes Model braucht um die Schlange lernen zu lassen)
 
 
 ## Inhaltsverzeichnis
